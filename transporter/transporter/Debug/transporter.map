@@ -1,0 +1,564 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+                              command.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+                              pwm_motor.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+para_buf            0x10              transporter.o
+pbuf                0x2               transporter.o
+
+Discarded input sections
+
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+ .text          0x00000000        0x0 command.o
+ .bss           0x00000000        0x0 command.o
+ .text          0x00000000        0x0 pwm_motor.o
+ .bss           0x00000000        0x0 pwm_motor.o
+ .text.get_DIR  0x00000000        0x6 pwm_motor.o
+ .text          0x00000000        0x0 transporter.o
+ .bss           0x00000000        0x0 transporter.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00002000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+LOAD command.o
+LOAD pwm_motor.o
+LOAD transporter.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x440
+ *(.vectors)
+ .vectors       0x00000000       0x26 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.__vector_11
+                0x00000026       0x14 transporter.o
+                0x0000003a                . = ALIGN (0x2)
+                0x0000003a                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000003a        0x0 linker stubs
+ *(.trampolines*)
+                0x0000003a                __trampolines_end = .
+ *(.progmem*)
+                0x0000003a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000003a                __ctors_start = .
+ *(.ctors)
+                0x0000003a                __ctors_end = .
+                0x0000003a                __dtors_start = .
+ *(.dtors)
+                0x0000003a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000003a        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+                0x0000003a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000003a        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000046       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+                0x00000046                __do_copy_data
+ .init4         0x0000005c       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+                0x0000005c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000006c        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+ *(.init9)
+ *(.text)
+ .text          0x00000070        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+                0x00000070                __vector_12
+                0x00000070                __bad_interrupt
+                0x00000070                __vector_6
+                0x00000070                __vector_3
+                0x00000070                __vector_13
+                0x00000070                __vector_17
+                0x00000070                __vector_7
+                0x00000070                __vector_5
+                0x00000070                __vector_4
+                0x00000070                __vector_9
+                0x00000070                __vector_15
+                0x00000070                __vector_8
+                0x00000070                __vector_14
+                0x00000070                __vector_10
+                0x00000070                __vector_16
+                0x00000070                __vector_18
+                0x00000072                . = ALIGN (0x2)
+ *(.text.*)
+ .text.cmd_slow
+                0x00000072       0x12 command.o
+                0x00000072                cmd_slow
+ .text.cmd_acc  0x00000084       0x10 command.o
+                0x00000084                cmd_acc
+ .text.cmd_STOP
+                0x00000094        0x6 command.o
+                0x00000094                cmd_STOP
+ .text.cmd_AUTO
+                0x0000009a        0x8 command.o
+                0x0000009a                cmd_AUTO
+ .text.cmd_CHDIR
+                0x000000a2        0x4 command.o
+                0x000000a2                cmd_CHDIR
+ .text.cmd_MANI
+                0x000000a6        0x8 command.o
+                0x000000a6                cmd_MANI
+ .text.cmd_STEP
+                0x000000ae       0x10 command.o
+                0x000000ae                cmd_STEP
+ .text._set_STEP
+                0x000000be        0xc command.o
+                0x000000be                _set_STEP
+ .text._set_DIR
+                0x000000ca        0xe command.o
+                0x000000ca                _set_DIR
+ .text._set_TSX
+                0x000000d8       0x1e command.o
+                0x000000d8                _set_TSX
+ .text.motor_port_init
+                0x000000f6        0x8 pwm_motor.o
+                0x000000f6                motor_port_init
+ .text.get_TS   0x000000fe        0xa pwm_motor.o
+                0x000000fe                get_TS
+ .text.get_PWMS
+                0x00000108        0xa pwm_motor.o
+                0x00000108                get_PWMS
+ .text.inc_TS   0x00000112       0x14 pwm_motor.o
+                0x00000112                inc_TS
+ .text.dec_TS   0x00000126       0x14 pwm_motor.o
+                0x00000126                dec_TS
+ .text.set_TS   0x0000013a        0xa pwm_motor.o
+                0x0000013a                set_TS
+ .text.set_DIR  0x00000144        0x6 pwm_motor.o
+                0x00000144                set_DIR
+ .text.set_PWMS
+                0x0000014a        0xa pwm_motor.o
+                0x0000014a                set_PWMS
+ .text.change_DIR
+                0x00000154       0x16 pwm_motor.o
+                0x00000154                change_DIR
+ .text.reset_PWMC
+                0x0000016a       0x12 pwm_motor.o
+                0x0000016a                reset_PWMC
+ .text.motor_forward
+                0x0000017c       0x2c pwm_motor.o
+                0x0000017c                motor_forward
+ .text.motor_back
+                0x000001a8       0x2c pwm_motor.o
+                0x000001a8                motor_back
+ .text.motor_action
+                0x000001d4       0x22 pwm_motor.o
+                0x000001d4                motor_action
+ .text.motor_step
+                0x000001f6       0x22 pwm_motor.o
+                0x000001f6                motor_step
+ .text.motor_stop
+                0x00000218        0x6 pwm_motor.o
+                0x00000218                motor_stop
+ .text.pcint_init
+                0x0000021e        0xe transporter.o
+                0x0000021e                pcint_init
+ .text.main     0x0000022c       0x44 transporter.o
+                0x0000022c                main
+ .text.__vector_11
+                0x00000270      0x124 transporter.o
+                0x00000270                __vector_11
+ .text.__vector_1
+                0x00000394       0x54 transporter.o
+                0x00000394                __vector_1
+ .text.__vector_2
+                0x000003e8       0x54 transporter.o
+                0x000003e8                __vector_2
+                0x0000043c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000043c        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+                0x0000043c                _exit
+                0x0000043c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000043c        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000440                _etext = .
+
+.data           0x00800060        0x8 load address 0x00000440
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avr4/crtm8.o
+ .data          0x00800060        0x0 command.o
+ .data          0x00800060        0x0 pwm_motor.o
+ .data          0x00800060        0x0 transporter.o
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_exit.o)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_copy_data.o)
+ .data          0x00800060        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1056/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avr4\libgcc.a(_clear_bss.o)
+ *(.data*)
+ .data.status   0x00800060        0x1 command.o
+                0x00800060                status
+ .data.TS       0x00800061        0x2 pwm_motor.o
+ .data.PWMC     0x00800063        0x2 pwm_motor.o
+ .data.PWMS     0x00800065        0x2 pwm_motor.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800068                . = ALIGN (0x2)
+ *fill*         0x00800067        0x1 
+                0x00800068                _edata = .
+                0x00800068                PROVIDE (__data_end, .)
+
+.bss            0x00800068       0x17
+                0x00800068                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.ERR       0x00800068        0x1 pwm_motor.o
+ .bss.DIR       0x00800069        0x1 pwm_motor.o
+ .bss.cmd_stat  0x0080006a        0x1 transporter.o
+                0x0080006a                cmd_stat
+ .bss.urc       0x0080006b        0x1 transporter.o
+                0x0080006b                urc
+ .bss.parac     0x0080006c        0x1 transporter.o
+                0x0080006c                parac
+ *(COMMON)
+ COMMON         0x0080006d       0x12 transporter.o
+                0x0080006d                para_buf
+                0x0080007d                pbuf
+                0x0080007f                PROVIDE (__bss_end, .)
+                0x00000440                __data_load_start = LOADADDR (.data)
+                0x00000448                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080007f        0x0
+                0x0080007f                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080007f                PROVIDE (__noinit_end, .)
+                0x0080007f                _end = .
+                0x0080007f                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 command.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 pwm_motor.o
+ .comment       0x00000000       0x31 transporter.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x140
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x68 command.o
+ .debug_aranges
+                0x00000068       0x98 pwm_motor.o
+ .debug_aranges
+                0x00000100       0x40 transporter.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0xa46
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x2e5 command.o
+ .debug_info    0x000002e5      0x3f0 pwm_motor.o
+ .debug_info    0x000006d5      0x371 transporter.o
+
+.debug_abbrev   0x00000000      0x428
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x126 command.o
+ .debug_abbrev  0x00000126      0x18e pwm_motor.o
+ .debug_abbrev  0x000002b4      0x174 transporter.o
+
+.debug_line     0x00000000      0x52b
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x166 command.o
+ .debug_line    0x00000166      0x25d pwm_motor.o
+ .debug_line    0x000003c3      0x168 transporter.o
+
+.debug_frame    0x00000000      0x304
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xb4 command.o
+ .debug_frame   0x000000b4      0x114 pwm_motor.o
+ .debug_frame   0x000001c8      0x13c transporter.o
+
+.debug_str      0x00000000      0x300
+ *(.debug_str)
+ .debug_str     0x00000000      0x1cf command.o
+                                0x210 (size before relaxing)
+ .debug_str     0x000001cf       0xb7 pwm_motor.o
+                                0x25b (size before relaxing)
+ .debug_str     0x00000286       0x7a transporter.o
+                                0x26e (size before relaxing)
+
+.debug_loc      0x00000000      0x41f
+ *(.debug_loc)
+ .debug_loc     0x00000000       0xb6 command.o
+ .debug_loc     0x000000b6      0x108 pwm_motor.o
+ .debug_loc     0x000001be      0x261 transporter.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x110
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x58 command.o
+ .debug_ranges  0x00000058       0x88 pwm_motor.o
+ .debug_ranges  0x000000e0       0x30 transporter.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(transporter.elf elf32-avr)
+LOAD linker stubs
